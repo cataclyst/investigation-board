@@ -26,6 +26,6 @@
     "templates/drawing-sheet.html"
   ],
   "url": "https://github.com/mordachai/investigation-board",
-  "manifest": "https://github.com/mordachai/investigation-board/raw/main/module.json",
-  "download": "https://github.com/mordachai/investigation-board/raw/main/investigation-board.zip"
+  "manifest": "https://raw.githubusercontent.com/cataclyst/investigation-board/refs/heads/revert-1.2.0/module.json",
+  "download": "https://raw.githubusercontent.com/cataclyst/investigation-board/refs/heads/revert-1.2.0/investigation-board.zip"
 }
